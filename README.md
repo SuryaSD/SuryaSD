@@ -25,7 +25,6 @@
 
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryaSD&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuryaSD&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSD&layout=compact&theme=vision-friendly-dark)](https://github.com/SuryaSD/github-readme-stats)
 
